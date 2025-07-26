@@ -15,8 +15,7 @@ I'm a curious and passionate creator building Awesome games, tools, and experien
 - **Game Engine**: Unreal Engine 5.6
 - **Programming**: C++, UE Blueprints, Python
 - **Tools**: Unreal Engine, Blender, Maya, Zbrush, Substance Painter, Git, Figma
-- **Extras**: Working with Procedural Mesh Component, Landscape Patch Actors, Post-processing, and AI assistant training
-
+- **Extras**: Working with Procedural Mesh Component, Landscape Patch Actors and Post-processing.
 ## ✨ Interests & Side Quests
 
 - 🎨 Making emotes & game art.  
