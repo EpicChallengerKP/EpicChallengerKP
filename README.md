@@ -12,13 +12,14 @@ I'm a curious and passionate creator building Awesome games, tools, and experien
 
 ## 🧰 Tech Stack
 
-- **Game Engine**: Unreal Engine 5.6
+- **Game Engine**: Unreal Engine 5
 - **Programming**: C++, UE Blueprints, Python
 - **Tools**: Unreal Engine, Blender, Maya, Zbrush, Substance Painter, Git, Figma
 - **Extras**: Working with Procedural Mesh Component, Landscape Patch Actors and Post-processing.
+  
 ## ✨ Interests & Side Quests
 
-- 🎨 Making emotes & game art.  
+- 🎨 Making games.  
 - 📚 Exploring storytelling through visual novels and Webtoons.
 - ☕ Coffee enthusiast — It’s not addiction, it’s devotion. (Trust me)
 
