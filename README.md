@@ -34,6 +34,10 @@ Always happy to chat about Unreal Engine, game design, storytelling, or creative
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpsnafray/) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=white)](https://www.instagram.com/epic_challenger_kp) [![X (Twitter)](https://img.shields.io/badge/X-000000?logo=X&logoColor=white)](https://x.com/kp_epic)
 
+## Github Stats
+
+  <p align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=true&borderRadius=24&Border=585858&Ring=71C3DD&Text=7BA0AAD0">    <img  alt="EpicChallengerKP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/EpicChallengerKP?cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=true&borderRadius=24&Border=585858&Ring=71C3DD&Text=7BA0AAD0" />  </a> </p>
+
 ## 🍻 Cheers 
 
 Thanks for stopping by!
