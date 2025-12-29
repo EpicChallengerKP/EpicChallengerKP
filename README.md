@@ -29,6 +29,10 @@ I'm a curious and passionate creator building Awesome games, tools, and experien
   
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpsnafray/) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=white)](https://www.instagram.com/epic_challenger_kp) [![X (Twitter)](https://img.shields.io/badge/X-000000?logo=X&logoColor=white)](https://x.com/kp_epic)
 
+## Github Stats
+
+https://streak-stats.demolab.com/?user=EpicChallengerKP&theme=tokyonight&hide_border=true
+
 ## 🍻 Cheers
 Thanks for stopping by!
 <!--
