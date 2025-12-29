@@ -31,7 +31,10 @@ I'm a curious and passionate creator building Awesome games, tools, and experien
 
 ## Github Stats
 
-https://streak-stats.demolab.com/?user=EpicChallengerKP&theme=tokyonight&hide_border=true
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EpicChallengerKP&theme=tokyonight&hide_border=true" />
+  </p>
+
 
 ## 🍻 Cheers
 Thanks for stopping by!
