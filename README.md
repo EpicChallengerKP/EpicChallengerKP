@@ -36,7 +36,7 @@ Always happy to chat about Unreal Engine, game design, storytelling, or creative
 
 ## Github Stats
 
-  <p align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=true&borderRadius=24&Border=585858&Ring=71C3DD&Text=7BA0AAD0">    <img  alt="EpicChallengerKP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/EpicChallengerKP?cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=true&borderRadius=24&Border=585858&Ring=71C3DD&Text=7BA0AAD0" />  </a> </p>
+  <p align="center">  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=true&Points.Commits=20&Points.ContributedToNotOwnerRepositories=1&borderRadius=24&Border=585858&Ring=71C3DD&Text=7BA0AAD0">    <img  alt="EpicChallengerKP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/EpicChallengerKP?cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=true&Points.Commits=20&Points.ContributedToNotOwnerRepositories=1&borderRadius=24&Border=585858&Ring=71C3DD&Text=7BA0AAD0" />  </a></p>
 
 ## 🍻 Cheers 
 
