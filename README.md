@@ -1,6 +1,6 @@
 # Hi, I'm Kamalpreet Singh Nafray
 
-UE5 Game Designer / Developer | AI Enthusiast | Storyteller
+UE5 Game Designer / Developer | Storyteller
 
 I’m a curious and passionate creator building games, tools, and interactive experiences in Unreal Engine 5, with a focus on emotional depth, experimentation, and meaningful player experiences.
 
